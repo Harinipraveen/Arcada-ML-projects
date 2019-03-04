@@ -3,10 +3,12 @@ This repository contains the assignments and project codes created during the Bi
 The list of assignments under each topic is as follows:
 
 Introduction to analytics:
+ 
   1.Exercise 1 - Working with time series data
   2.Project – Stock forecasting
 
 Machine learning for predictive problems:
+ 
   1.homework1_winequality -- supervied learning algorithms
   2.homework2_unsupervised -- unsupervised learning algorithms
   3.homework3_winequality_gridsearch-part1 -- gridsearch for supervised learning algorithms
@@ -16,9 +18,11 @@ Machine learning for predictive problems:
   7.Homework6_image segmentation with deeplab.ipynb
   
 Visual Analytics:
+ 
   1.Course project - HR_employeeAttririon_visualization.ipynb
 
 Machine learning for descriptive problems:
+  
   1.Harini_ML_descriptive_datamining.ipynb -- cleaning data, filling missing values using imputer methods
   2.Harini_ML_Descriptive_hashing.ipynb -- text hashing
   3.HariniP_ML_descriptive_surveydata-- handling raw survey data from internet
