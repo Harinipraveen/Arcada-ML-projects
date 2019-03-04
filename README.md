@@ -20,7 +20,8 @@ Machine learning for predictive problems:
 Visual Analytics:
  
   1.Course project - HR_employeeAttririon_visualization.ipynb
-
+  2.IBM HR Analytics Employee Attrition (1).pdf -- project report
+  
 Machine learning for descriptive problems:
   
   1.Harini_ML_descriptive_datamining.ipynb -- cleaning data, filling missing values using imputer methods
