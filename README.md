@@ -30,4 +30,5 @@ Machine learning for descriptive problems:
   4.Harini_MLDP_bloomfilter.ipynb -- filtering live data streams with bloom filter
   5.Harini_MLDP_FlajoletMartin-OneHash.ipynb -- counting distinct elements in a data stream with 1 hash function
   6.Harini_MLDP_FlajoletMartin-5hashfunction.ipynb -- counting distinct elements in a data stream with 5 hash functions
+  7.Harini_MLDP_graphs_communties -- social graphs and finding non overlapping communities within a graph
   
